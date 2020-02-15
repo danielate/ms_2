@@ -1,0 +1,26 @@
+---
+title: "ms_2"
+author: "Daniela Teran"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+# **Commentary on Past Projects Developed by GOV 1005 Students**
+
+## **John Ball: Analysis of rates of mental illness among comedians.**
+
+### This project addresses the common assumption that “there is a positive relationship between comedy and mental illness” (Ball, John) This project is a great example of data gathering and cleaning as the author obtained his data from studies administered to 289 individuals, recruited through college comedy groups, professional comedy club comedian databases, and online comedy Facebook groups. The app created allows you to visualize the data filtered in 5 different categories: men, women, Hobbyists, Professionals, Amateurs Pursuing Professional Career, and Mixed Professional/Unprofessional Income. I believe ‘men’ and ‘women’ should be treated as internal subsets of the categories defined by professional state. I believe that the tests administered to measure different mental illness provide great instance to the main research question. Finally, design and use of color could be generally improved. 
+
+## **Mitsue Guerrero: Who is causing water stress in Mexico City?**
+
+### This project presents us with a relevant subject and question. The design and use of color are compelling and pleasing. The use of circles with varying sizes allow us to get a sense of the areas of the city where there is higher water stress. It seems that the information and data loaded to the map is really heavy, making navigation and exploration slow. The project does not provide of many insights or further analysis. It also lacks additional information on the characteristics of the population where water stress is higher, for instance, level of income. It will also be very interesting to overlay this information with a map of the infrastructure and service provision to understand if people are consuming less water due to less access to it. 
+
+
+##### **Sources:**
+###### Ball, John. https://john-ball.shinyapps.io/Comedy_and_Mental_Illness/. Access: 2020-02-14.
+###### Guerrero, Mitsue. https://mitsuelisa.shinyapps.io/Water-in-CDMX/. Access: 2020-02-14. 
+
